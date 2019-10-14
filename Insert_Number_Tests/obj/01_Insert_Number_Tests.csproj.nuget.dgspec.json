@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\Админ\\Desktop\\Basic_Coding\\Insert_Number_Tests\\01_Insert_Number_Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\Админ\\Desktop\\Basic_Coding\\Insert_Number\\01_Insert_Number.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Админ\\Desktop\\Basic_Coding\\Insert_Number\\01_Insert_Number.csproj",
+        "projectName": "01_Insert_Number",
+        "projectPath": "D:\\Users\\Админ\\Desktop\\Basic_Coding\\Insert_Number\\01_Insert_Number.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Users\\Админ\\Desktop\\Basic_Coding\\Insert_Number_Tests\\01_Insert_Number_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Админ\\Desktop\\Basic_Coding\\Insert_Number_Tests\\01_Insert_Number_Tests.csproj",
+        "projectName": "01_Insert_Number_Tests",
+        "projectPath": "D:\\Users\\Админ\\Desktop\\Basic_Coding\\Insert_Number_Tests\\01_Insert_Number_Tests.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Админ\\Desktop\\Basic_Coding\\Insert_Number_Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Users\\Админ\\Desktop\\Basic_Coding\\Insert_Number\\01_Insert_Number.csproj": {
+                "projectPath": "D:\\Users\\Админ\\Desktop\\Basic_Coding\\Insert_Number\\01_Insert_Number.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

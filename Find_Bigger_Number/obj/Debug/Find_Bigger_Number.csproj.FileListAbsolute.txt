@@ -1,0 +1,6 @@
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Bigger_Number\bin\Debug\Find_Bigger_Number.exe.config
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Bigger_Number\bin\Debug\Find_Bigger_Number.exe
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Bigger_Number\bin\Debug\Find_Bigger_Number.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Bigger_Number\obj\Debug\Find_Bigger_Number.exe
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Bigger_Number\obj\Debug\Find_Bigger_Number.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Bigger_Number\obj\Debug\Find_Bigger_Number.csprojAssemblyReference.cache

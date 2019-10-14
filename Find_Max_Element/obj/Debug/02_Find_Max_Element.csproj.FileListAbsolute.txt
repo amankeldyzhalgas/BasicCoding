@@ -1,0 +1,5 @@
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Max_Element\bin\Debug\Find_Max_Element.dll.config
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Max_Element\bin\Debug\Find_Max_Element.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Max_Element\bin\Debug\Find_Max_Element.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Max_Element\obj\Debug\Find_Max_Element.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Max_Element\obj\Debug\Find_Max_Element.pdb

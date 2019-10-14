@@ -1,0 +1,6 @@
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Concatenate_String\bin\Debug\Concatenate_String.dll.config
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Concatenate_String\bin\Debug\Concatenate_String.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Concatenate_String\bin\Debug\Concatenate_String.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Concatenate_String\obj\Debug\04_Concatenate_String.csprojAssemblyReference.cache
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Concatenate_String\obj\Debug\Concatenate_String.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Concatenate_String\obj\Debug\Concatenate_String.pdb

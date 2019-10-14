@@ -1,0 +1,3 @@
+D:\Users\Админ\Desktop\Basic_Coding\Find_Max_Element_MSTests\obj\Debug\netcoreapp3.0\Find_Max_Element_MSTests.csprojAssemblyReference.cache
+D:\Users\Админ\Desktop\Basic_Coding\Find_Max_Element_MSTests\obj\Debug\netcoreapp3.0\Find_Max_Element_MSTests.AssemblyInfoInputs.cache
+D:\Users\Админ\Desktop\Basic_Coding\Find_Max_Element_MSTests\obj\Debug\netcoreapp3.0\Find_Max_Element_MSTests.AssemblyInfo.cs

@@ -1,0 +1,5 @@
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Filter_Digit\bin\Debug\Filter_Digit.dll.config
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Filter_Digit\bin\Debug\Filter_Digit.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Filter_Digit\bin\Debug\Filter_Digit.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Filter_Digit\obj\Debug\Filter_Digit.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Filter_Digit\obj\Debug\Filter_Digit.pdb

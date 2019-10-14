@@ -1,0 +1,5 @@
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Insert_Number\bin\Debug\Insert_Number.dll.config
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Insert_Number\bin\Debug\Insert_Number.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Insert_Number\bin\Debug\Insert_Number.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Insert_Number\obj\Debug\Insert_Number.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Insert_Number\obj\Debug\Insert_Number.pdb

@@ -1,0 +1,6 @@
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Max_Element\bin\Debug\Find_Max_Element.exe.config
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Max_Element\bin\Debug\Find_Max_Element.exe
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Max_Element\bin\Debug\Find_Max_Element.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Max_Element\obj\Debug\Find_Max_Element.csprojAssemblyReference.cache
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Max_Element\obj\Debug\Find_Max_Element.exe
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Max_Element\obj\Debug\Find_Max_Element.pdb

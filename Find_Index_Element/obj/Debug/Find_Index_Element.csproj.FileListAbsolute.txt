@@ -1,0 +1,5 @@
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Index_Element\bin\Debug\Find_Index_Element.exe.config
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Index_Element\bin\Debug\Find_Index_Element.exe
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Index_Element\bin\Debug\Find_Index_Element.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Index_Element\obj\Debug\Find_Index_Element.exe
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Find_Index_Element\obj\Debug\Find_Index_Element.pdb

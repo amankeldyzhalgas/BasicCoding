@@ -1,0 +1,5 @@
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Concatenate_String\bin\Debug\Concatenate_String.exe.config
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Concatenate_String\bin\Debug\Concatenate_String.exe
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Concatenate_String\bin\Debug\Concatenate_String.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Concatenate_String\obj\Debug\Concatenate_String.exe
+G:\Мои документы\Рабочий стол\Epam\Tasks\Basic_Coding\Concatenate_String\obj\Debug\Concatenate_String.pdb
