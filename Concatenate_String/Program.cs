@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 
 namespace Concatenate_String
 {
@@ -17,6 +18,10 @@ namespace Concatenate_String
         /// <returns>Строка на выходе</returns>
         public static string StringConcatenation(string firstString, string secondString)
         {
+            if (firstString is null || secondString is null)
+                throw new ArgumentNullException("Strings must not be null");
+            if (firstString.Equals(string.Empty) || secondString.Equals(string.Empty))
+                throw new ArgumentException("Strings cannot be empty");
             var str = firstString;
             for (int i = 0; i < secondString.Length; i++)
             {

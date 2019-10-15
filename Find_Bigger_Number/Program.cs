@@ -17,6 +17,8 @@ namespace Find_Bigger_Number
         /// <returns>Число или -1 если такого числа не существует</returns>
         public static int FindNextBiggerNumber(int number)
         {
+            if (number < 0)
+                throw new ArgumentException("The number must be positive.");
             int[] arr = new int[number.ToString().Length];
             for (int i = 0; i < number.ToString().Length; i++)
             {

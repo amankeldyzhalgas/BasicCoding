@@ -1,4 +1,7 @@
-﻿namespace Find_Index_Element
+﻿using System;
+using System.Linq;
+
+namespace Find_Index_Element
 {
     /// <summary>
     ///  Класс Program
@@ -15,6 +18,8 @@
         /// <returns>Индекс элемента массива</returns>
         public static int GetIndexElementFromArray(double[] arr, int index = 0)
         {
+            if (arr == null)
+                throw new ArgumentNullException("Array must not be null");
             decimal leftSum = 0.0M, rigthSum = 0.0M;
             int nextIndex = index;
             if (arr.Length > index)

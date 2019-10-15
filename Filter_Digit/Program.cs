@@ -19,6 +19,10 @@ namespace Filter_Digit
         /// <returns>Отфильрованный масиив</returns>
         public static int[] FilterDigit(int[] arr, int digit)
         {
+            if (arr == null)
+                throw new ArgumentNullException("Array must not be null");
+            if (!arr.Any())
+                throw new ArgumentException("Array cannot be empty");
             List<int> result = new List<int>();
             for (int i = 0; i < arr.Length; i++)
             {
